@@ -54,9 +54,24 @@
 
 # ⚡ Areas of Interest  
 
+🌟 **Competitive Programming & DSA**  
+✔️ Solving Data Structures and Algorithms (DSA) problems professionally  
+✔️ Active in competitive coding challenges  
+✔️ Expertise in time complexity optimization  
+
+🌟 **Trading Strategies & Backtesting**  
+✔️ Building and automating trading strategies using Python  
+✔️ Conducting backtesting to refine and optimize strategies  
+✔️ Analyzing stock market data using machine learning  
+
+🌟 **Space Exploration & Research**  
+✔️ Passionate about space technologies and astrophysics  
+✔️ Writing blogs on space exploration and advancements  
+✔️ Researching AI applications in space science  
+
 🌟 **Synthesizing scripts** to make development workflows easier  
 🌟 **Crafting minimalistic** Web and Desktop Applications to simplify daily tasks  
-🌟 **Contributing to open source** projects for a community-centered and transparent tech ecosystem  
+🌟 **Contributing to open-source** projects for a community-centered and transparent tech ecosystem  
 🌟 **Data Analysis** across various formats such as images, text, geospatial, medical records, PDFs, etc.  
 🌟 **Building tech communities** and advocating for future technologies  
 🌟 **Creating efficient APIs** to help clients translate their ideas into MVPs  
@@ -72,3 +87,29 @@
 🌟 **Advancing Natural Language Processing (NLP)**  
 🌟 **Managing MLOps** for collaborative ML projects  
 🌟 **Deploying ML Applications** on the cloud for scalable and user-friendly experiences  
+
+---
+
+## 📚 **Check Out My Blogs on Space & Technology**  
+🔗 [Blog 1: The Future of AI in Space Exploration](#)  
+🔗 [Blog 2: How Machine Learning is Transforming Astronomy](#)  
+🔗 [Blog 3: Understanding Black Holes with Deep Learning](#)  
+
+---
+
+### 🎯 **Let's Connect!**  
+📩 **Email:** [Your Email]  
+🐦 **Twitter:** [Your Twitter Handle]  
+🔗 **LinkedIn:** [Your LinkedIn Profile]  
+🚀 **Portfolio:** [Your Website]  
+
+---
+
+### **Final Steps**
+1. Save the `README.md` file in your profile repository.
+2. Commit and push the changes.
+3. Check your GitHub profile, and it should now display beautifully formatted.
+
+---
+
+This version now includes your expertise in **Competitive Programming, DSA, Trading Strategies, Backtesting, and Space Exploration Blogs**. Let me know if you want any tweaks! 🚀🔥
