@@ -71,18 +71,9 @@
 
 
 
----
 
 
 
 
----
 
-### **Final Steps**
-1. Save the `README.md` file in your profile repository.
-2. Commit and push the changes.
-3. Check your GitHub profile, and it should now display beautifully formatted.
 
----
-
-This version now includes your expertise in **Competitive Programming, DSA, Trading Strategies, Backtesting, and Space Exploration Blogs**. Let me know if you want any tweaks! 🚀🔥
