@@ -82,6 +82,8 @@
 
 ## **Competitive Programming**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/GaneshReddy796/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ganesh-reddy-mekala-424707256)
+
 
 
 
