@@ -80,6 +80,11 @@
 ✔️ Researching AI applications in space science  
 
 
+## **Competitive Programming**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/GaneshReddy796/)
+
+
+
 
 
 
